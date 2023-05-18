@@ -1,0 +1,5 @@
+# some lines commented out
+Winnie the Pooh (100 Acre Wood) 6 4
+#Tigger (100 Acre Wood) 9 1
+Piglet (100 Acre Wood) 3 7
+#Rabbit (100 Acre Wood) 10 0

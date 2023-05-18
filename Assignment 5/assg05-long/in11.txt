@@ -1,0 +1,29 @@
+#Lord of the Rings Conference
+Team Gandalf the Grey (Lord of the Rings)	22	3
+Team Frodo Baggins (Lord of The Rings)	15	7
+Team Dumbledore (Hogwarts)	22	3
+The Doctor (David Tennant) (Doctor Who)	29	0
+Winnie the Pooh (100 Acre Wood) 6 4
+Gene (Belcher) 12	 	5		
+Tina (Belcher)	13     3
+Louise (Belcher)	 25    0
+Bob & Linda (Belcher)    15       0
+Tigger (100 Acre Wood) 9 1
+Team Hermione Granger (Hogwarts)	20	1
+#Battlestar Galactica Conference
+Lt. Kara Thrace (Starbuck) (Battlestar Galactica)	15 0
+Team Sauron (Lord of the Rings)	20	1
+#Harry Potter Conference
+Team Harry Potter (Hogwarts)	15	7
+The Doctor (Matt Smith) (Doctor Who)	19	4
+The Doctor (Peter Capaldi) (Doctor Who)	22	5
+Team Ron Weasley (Hogwarts)	19	5
+Piglet (100 Acre Wood) 3 7
+Capt. Lee Adama (Apollo) (Battlestar Galactica)	13	3
+Lt. Sharon Agathon (Athena) (Battlestar Galactica)	12	5
+Team Hagrid (Hogwarts)	2	1
+Cpo. Galen Tyrol (Battlestar Galactica)	25	0
+Team Gollum a.k.a. Smeagol (Lord of the Rings)	19	5
+The Doctor (Christopher Eccleston) (Doctor Who)	0	15
+Team Gandalf the White (Lord of the Rings)	2	1
+Rabbit (100 Acre Wood) 10 0

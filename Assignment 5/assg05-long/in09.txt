@@ -1,0 +1,5 @@
+Team Frodo Baggins (Lord of The Rings)	15	7
+Team Gollum a.k.a. Smeagol (Lord of the Rings)	19	5
+Team Gandalf the White (Lord of the Rings)	0	1
+Team Gandalf the Grey (Lord of the Rings)	22	3
+Team Sauron (Lord of the Rings)	20	0

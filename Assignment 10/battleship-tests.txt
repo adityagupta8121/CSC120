@@ -1,0 +1,60 @@
+#Aditya Gupta
+#battleship-tests.txt
+
+# Test 1 (error)
+# This tests whether the program can handle invalid files
+file.txt
+# End of test
+
+# Test 2 (regular)
+# This tests whether the program can handle valid files
+placement.txt
+guess.txt
+# End of test
+
+# Test 3 (edge)
+# This tests whether the program can handle empty files
+empty.txt
+# End of test
+
+# Test 4 (error)
+# This tests whether the program can handle placement of more than 5 ships
+File contains:
+A 6 4 6 0
+S 6 7 6 5
+B 5 7 2 7
+D 3 6 3 4
+P 4 5 4 4
+S 6 3 6 5
+# End of test
+
+# Test 5 (error)
+# This tests whether the program can handle guesses
+File contains:
+1 7
+0 7
+4 3
+9 4
+2 7
+97 63
+2 3
+3 7
+4 7
+1 1
+2 2
+6 4
+7 4
+2 4
+2 5
+4 2
+5 2
+7 3
+3 8
+7 5
+7 7
+20 3
+9 7
+7 6
+9 8
+9 9
+# End of test

@@ -1,0 +1,5 @@
+I  Apr 14 1912 : The Titanic began to sink
+I 	1912-4-15: The titanic finished sinking
+R Apr 15 1912
+I 04/15/1912 : A lot of people died on an unsinkable ship
+R Apr 15 1912
